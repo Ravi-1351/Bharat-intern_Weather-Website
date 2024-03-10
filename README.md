@@ -14,14 +14,14 @@ Welcome to the Weather Website project! This application provides real-time weat
 To run this project locally, follow these steps:
 
 1. Clone this repository: 
-2. Open the ** index.html ** file in your preferred web browser.
+2. Open the index.html file in your preferred web browser.
 ## How to Contribute
 If you would like to contribute to the project, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch: 'git checkout -b feature-new-feature'.
-3. Make your changes and commit them: 'git commit -m 'Add new feature''.
-4. Push to the branch: 'git push origin feature-new-feature'.
+2. Create a new branch: git checkout -b feature-new-feature.
+3. Make your changes and commit them: git commit -m 'Add new feature'.
+4. Push to the branch: git push origin feature-new-feature.
 5. Submit a pull request.
 Created By- Karri Ravi Chandra
 
