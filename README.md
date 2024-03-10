@@ -14,7 +14,7 @@ Welcome to the Weather Website project! This application provides real-time weat
 To run this project locally, follow these steps:
 
 1. Clone this repository: 
-2. Open the 'index.html' file in your preferred web browser.
+2. Open the ** index.html ** file in your preferred web browser.
 ## How to Contribute
 If you would like to contribute to the project, follow these steps:
 
